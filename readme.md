@@ -1,3 +1,3 @@
 Este es el trabajo final de la materia de programación web, la cual tiene como finalidad demostrar nuestros conocimientos adquiridos durante la parcial, en este proyecto deberemos conectarnos a nuestra base de datos que creemos, la cual contendrá 5 tablas, una de ellas será usada para una parte de protección, con esto se quiere decir que la persona se registrara primero para luego usar los datos con los que se registró en un apartado de login con el fin de poder continuar y acceder con la parte de los controles, mientras tanto las otras cuatro tablas restantes serán utilizadas para los procedimientos correspondientes, que el usuario tendrá una vez logre ingresar.
 
-PD: El trabajo se debe iniciar desde el archivo Api.html, pero puede empezar desde donde usted desee conveniente.
+PD: El trabajo se debe iniciar desde el archivo Api.html, pero puede empezar desde donde usted crea conveniente.
