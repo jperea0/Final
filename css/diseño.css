@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.text {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bodyc {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20em;
+    background-image: url(https://serviciosintegralesdeingenieria.es/wp-content/uploads/2018/07/fondo-formulario.png);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+.diseño {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+.bodya {
+    /* Aquí el origen de la imagen */
+    background-image: url(https://serviciosintegralesdeingenieria.es/wp-content/uploads/2018/07/fondo-formulario.png);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+.bodyb {
+    /* Aquí el origen de la imagen */
+    background-image: url(https://i.pinimg.com/736x/f3/fa/37/f3fa37b5db4b7a64d96e96f952cd6a81.jpg);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+.bodyd {
+    /* Aquí el origen de la imagen */
+    background-image: url(https://img.freepik.com/vector-gratis/sol-brilla-cielo-azul-nubes-fondo-realista_1284-10467.jpg?w=2000);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+.bodyM {
+    /* Aquí el origen de la imagen */
+    background-image: url(https://yt3.ggpht.com/dqri8MRThiz2ytXAdt42D3G5hf7WmQMjW4cJwxhMU_69T2lwYgqVB6zNekNSV6nRR3xEZgfh=s900-c-k-c0x00ffffff-no-rj);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+.bodyN {
+    /* Aquí el origen de la imagen */
+    background-image: url(https://media.istockphoto.com/id/1373259673/es/foto/soporte-de-mesa-de-producto-de-m%C3%A1rmol-blanco-vista-superior-de-fondo-de-piso-marmoleado-y.jpg?b=1&s=170667a&w=0&k=20&c=PNrnsi4VQ3QYE8vrveYajSKHQ3f_-dU4yHmV1fwd5Xg=);
+    /* Fijar la imagen de fondo este vertical y
+    horizontalmente y centrado */
+    background-position: center center;
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #539fdd;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
