@@ -37,7 +37,7 @@ fecha DATETIME,
 Total int,
 );
 
-CREATE TABLE Defacturas (
+CREATE TABLE defacturas (
 id_factura int NOT NULL AUTO_INCREMENT,
 PRIMARY KEY (id_factura),
 id_producto int,
